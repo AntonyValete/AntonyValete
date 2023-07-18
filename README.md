@@ -4,9 +4,7 @@ My name is Antony and I'm a system analysis and development student from Brazil.
 
 ## Work Experience:
 
-None yet, 😓. But if you want to hire me, you'll be getting a very passionate person!
-
-Feel free to get in touch by email or Linkedin! antony.valete@fatec.sp.gov.br || antonyvalete@gmail.com || www.linkedin.com/in/antony-valete
+Currently enrolled as a system analyst intern at HST Card Technology.
 
 ## Interests:
 
