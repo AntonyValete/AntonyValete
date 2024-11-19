@@ -4,7 +4,7 @@ My name is Antony and I'm a system analysis and development student from Brazil.
 
 ## Work Experience:
 
-Currently enrolled as a system analyst intern at HST Card Technology.
+Currently enrolled as a system analyst trainee at HST Card Technology.
 
 ## Interests:
 
