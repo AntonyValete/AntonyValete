@@ -1,10 +1,10 @@
-# What's up? 😼
+# What's up? 🐳
 
-My name is Antony and I'm a system analysis and development student from Brazil. Down below is some info about me!
+My name is Antony and I'm a software developer from Brazil. Down below is some info about me!
 
 ## Work Experience:
 
-Currently enrolled as a system analyst trainee at HST Card Technology.
+Currently enrolled as a jr software developer for HST Card Technology.
 
 ## Interests:
 
